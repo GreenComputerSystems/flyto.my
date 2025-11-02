@@ -1,7 +1,8 @@
-# ⚡ Sink by Green Computer Systems
+# ✈️ Flyto.my by Green Computer Systems
 
 **A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.**
 
+Forked from Sink as seen on:
 <a href="https://trendshift.io/repositories/10421" target="_blank">
   <img
     src="https://trendshift.io/api/badge/repositories/10421"
